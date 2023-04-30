@@ -1,7 +1,7 @@
 const passwordBox = document.getElementById("password");
 const lenght = 12;
 const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-const lowereCase = "abcdefghijklmnopqstuvwxyz";
+const lowerCase = "abcdefghijklmnopqstuvwxyz";
 const number = "0123456789";
 const symbol = "!@#$%^&*(){}[]?";
   const allchars = upperCase + lowerCase + number + symbol;
